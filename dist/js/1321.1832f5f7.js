@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkarch_main"]=self["webpackChunkarch_main"]||[]).push([[1321],{1321:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var r=function(){var e=this,n=e._self._c;return n("div",[e._v(" NewSLetters ")])},u=[],a={name:"NewsLetters"},s=a,c=t(1656),f=(0,c.A)(s,r,u,!1,null,"78d8a08f",null),i=f.exports}}]);
+//# sourceMappingURL=1321.1832f5f7.js.map
